@@ -31,10 +31,8 @@
 
 GCC specific:
 
--Wcast-align
 -Wunsuffixed-float-constants
 -Warith-conversion
--Wcast-align=strict
 -Wunsafe-loop-optimizations
 -Wvector-operation-performance
 -Walloc-zero
